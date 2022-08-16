@@ -1,8 +1,15 @@
 # About Me
-To Engineer is Human
+To Engineer is Human <br>
 Data Science Major || Computer Science Minor || Robotics Engineer at Heart <br>
 [NASA L'SPACE Academy](https://sservi.nasa.gov/articles/join-nasas-lspace-virtual-academy/) Graduate || [NASA Community Aerospace Scholars](https://www.nasa.gov/stem/murep/projects/ncas.html) (NCAS) Graduate
 
+# Skills:
+- Programming Languages (C++, Python, Rust, Java, CSS, HTML)
+- 160 WPM
+- Grit
+- Communication
+- Principles of Causality Thinking
+- Quick Information Processing Speed & Decision-Making
 
 # Certifications:
 - NASA
