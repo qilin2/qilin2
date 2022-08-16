@@ -20,7 +20,7 @@ Data Science Major || Computer Science Minor || Robotics Engineer at Heart <br>
 - Computer Science-
   - CodeForces:
   - CodeChef: [/qilin2](https://www.codechef.com/users/qilin)
-  - Google
+  - Google Kickstart: 
  
  
  - Robotics <3 -
