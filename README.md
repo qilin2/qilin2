@@ -1,16 +1,15 @@
-### Hi there 👋
+Data Science Major || Computer Science Minor || Robotics Engineer at Heart <br>
+[NASA L'SPACE Academy](https://sservi.nasa.gov/articles/join-nasas-lspace-virtual-academy/) Graduate || [NASA Community Aerospace Scholars](https://www.nasa.gov/stem/murep/projects/ncas.html) (NCAS) Graduate
 
-<!--
-**qilin2/qilin2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Socials:
+- Data Science-
+  - Kaggle
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Computer Science-
+  - CodeForces:
+  - CodeChef:
+  - Google
+ 
+ 
+ - Robotics <3 -
+  - Gundam 
