@@ -1,11 +1,11 @@
 # About Me
 To Engineer is Human <br>
 Data Science Major || Computer Science Minor || Robotics Engineer at Heart <br>
-[NASA L'SPACE Academy](https://sservi.nasa.gov/articles/join-nasas-lspace-virtual-academy/) Graduate || [NASA Community Aerospace Scholars](https://www.nasa.gov/stem/murep/projects/ncas.html) (NCAS) Graduate
+[NASA L'SPACE Academy](https://sservi.nasa.gov/articles/join-nasas-lspace-virtual-academy/) Alumni || [NASA Community Aerospace Scholars](https://www.nasa.gov/stem/murep/projects/ncas.html) (NCAS) Alumni
 
 # Skills:
 - Programming Languages (C++, Python, Rust, Java, CSS, HTML)
-- 160 WPM
+- [160 WPM](https://10fastfingers.com/user/2904832/)
 - Grit
 - Communication
 - Principles of Causality Thinking
@@ -29,6 +29,7 @@ Data Science Major || Computer Science Minor || Robotics Engineer at Heart <br>
   - CodeForces:
   - CodeChef: [/qilin2](https://www.codechef.com/users/qilin)
   - Google Kickstart: 
+- 
  
  
  - Robotics <3 -
