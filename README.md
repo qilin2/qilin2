@@ -32,4 +32,3 @@ Data Science Major || Computer Science Minor || Robotics Engineer at Heart <br>
  
  
  - Robotics <3 -
-  - Gundam 
