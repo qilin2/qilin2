@@ -5,7 +5,7 @@ Data Science Major + Computer Science Minor @ De Anza College Freshie || Robotic
 
 # Skills:
 - Programming Languages (C++, Python, Rust, Java, CSS, HTML)
-- [160 WPM](https://10fastfingers.com/user/2904832/)
+- [150 WPM](https://10fastfingers.com/user/2904832/)
 - Grit
 - Communication
 - Principles of Causality Thinking
