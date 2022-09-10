@@ -4,12 +4,10 @@ Data Science Major + Computer Science Minor @ De Anza College Freshie || Robotic
 [NASA L'SPACE Academy](https://sservi.nasa.gov/articles/join-nasas-lspace-virtual-academy/) Alumni || [NASA Community Aerospace Scholars](https://www.nasa.gov/stem/murep/projects/ncas.html) (NCAS) Alumni
 
 # Skills:
-- Programming Languages (C++, Python, Rust, Java, CSS, HTML)
+- Programming Languages (C/C++, Python, Rust, Java, CSS, HTML, & R)
 - [150 WPM](https://10fastfingers.com/user/2904832/)
 - Grit
-- Communication
-- Principles of Causality Thinking
-- Quick Information Processing Speed & Decision-Making
+- Data Science, Data Analysis, and Data Cleaning
 
 # Certifications:
 - NASA
