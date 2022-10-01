@@ -4,7 +4,7 @@ Studying Computer Science, Data Theory, & Cybersecurity || Robotics Engineer at 
 [NASA L'SPACE Academy](https://sservi.nasa.gov/articles/join-nasas-lspace-virtual-academy/) Alumni || [NASA Community Aerospace Scholars](https://www.nasa.gov/stem/murep/projects/ncas.html) (NCAS) Alumni
 
 # Skills:
-- Programming Languages (C/C++, Python, Rust, Java, CSS, HTML, & R)
+- Programming Languages (C/C++, Python, ReactJS, Java, Javascript, CSS, HTML, & R)
 - [150 WPM](https://10fastfingers.com/user/2904832/)
 - Grit
 - Data Science, Data Analysis, and Data Cleaning
