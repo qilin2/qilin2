@@ -11,8 +11,10 @@ Studying Computer Science, Data Theory, & Cybersecurity || Robotics Engineer at 
 
 # Certifications:
 - NASA
-  - [L'SPACE Academy](https://imgur.com/a/TFT0v4r)
-  - [NCAS](https://imgur.com/a/UGLSFT1)
+  - [L'SPACE Academy]
+  - - [MCA](https://github.com/qilin2/qilin2/blob/main/NASA/NASA-LSPACE-MCA.png)
+  - - [NPWEE](https://github.com/qilin2/qilin2/blob/main/NASA/NASA-LSPACE-NPWEE.png)
+  - [NCAS](https://github.com/qilin2/qilin2/blob/main/NASA/NASA-NCAS-Community-Scholars.png)
 - Coursera
   - [Google Data Analytics Professional](https://www.coursera.org/account/accomplishments/specialization/certificate/MDXJBMXLWL5Z)
   - [IBM Data Science](https://www.coursera.org/account/accomplishments/specialization/certificate/QYBRXGZH56UF)
