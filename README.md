@@ -1,6 +1,5 @@
 # About Me
 To Engineer is Human <br>
-Studying Computer Science, Data Theory, & Cybersecurity || Robotics Engineer at Heart <br>
 [NASA L'SPACE Academy](https://sservi.nasa.gov/articles/join-nasas-lspace-virtual-academy/) Alumni || [NASA Community Aerospace Scholars](https://www.nasa.gov/stem/murep/projects/ncas.html) (NCAS) Alumni
 
 # Skills:
